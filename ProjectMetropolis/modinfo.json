@@ -1,0 +1,13 @@
+﻿{
+  "id": "dashaw92.projectmetropolis",
+  "name": "The Metropolis Project",
+  "version": "0.0.1",
+  "authors": "dashaw92",
+  "description": "So that's what they were scavenging scrap metal for...",
+  "requirements": ["moreslugcats"],
+  "requirements_names": ["More Slugcats Expansion"],
+  "tags": [],
+  "checksum_override_version": false,
+  "priorities": [],
+  "target_game_version": "v1.9.15b"
+}
